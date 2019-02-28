@@ -22,4 +22,6 @@ autentikasi
 ![alt text](https://github.com/KadekJ/modul_6_cookies/blob/master/autentikasi_3.png)
 
 Praktikum session dengan PHP
-![alt text]()
+![alt text](https://github.com/KadekJ/modul_6_cookies/blob/master/p1.png)
+![alt text](https://github.com/KadekJ/modul_6_cookies/blob/master/p2.png)
+![alt text](https://github.com/KadekJ/modul_6_cookies/blob/master/p3.png)
